@@ -66,6 +66,7 @@
 		B23EAFC82935B2210048E6ED /* AudiUIKitApp */ = {
 			isa = PBXGroup;
 			children = (
+				B2BDCE782936EAC300BC93CE /* Models */,
 				B23EAFF92935B3340048E6ED /* Cells */,
 				B23EAFF72935B3340048E6ED /* Resources */,
 				B23EAFC92935B2210048E6ED /* AppDelegate.swift */,
@@ -94,6 +95,13 @@
 				B23EAFFB2935B3340048E6ED /* AudiModelCollectionViewCell.swift */,
 			);
 			path = Cells;
+			sourceTree = "<group>";
+		};
+		B2BDCE782936EAC300BC93CE /* Models */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Models;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
